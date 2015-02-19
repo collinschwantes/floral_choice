@@ -4,8 +4,15 @@ author: "Collin J. Schwantes"
 date: "February 18, 2015"
 bibliography: /Users/featherlite569/Documents/Floral Choice /Papers/behavior.bib
 output: html_document
+csl: /Users/featherlite569/Documents/Floral Choice /styles/ecology.csl
 ---
+*Target Journal* : Animal Behaviour, Behavioral Ecology, suggestions welcome
 
-[@Rodriguez-Girones2013]
+First draft of everything, focus on intro, 
+
+**lets brainstorm about the best way to analyze the data**
+
+
+
 
 #References
