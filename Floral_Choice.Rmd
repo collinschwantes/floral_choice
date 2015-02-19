@@ -1,0 +1,11 @@
+---
+title: "Flower occupying arthropods mediate foraging behavior in bees "
+author: "Collin J. Schwantes"
+date: "February 18, 2015"
+bibliography: /Users/featherlite569/Documents/Floral Choice /Papers/behavior.bib
+output: html_document
+---
+
+[@Rodriguez-Girones2013]
+
+#References
